@@ -1,0 +1,5 @@
+go 1.21.3
+
+use ./02variables
+use ./03UserInput
+use ./04conversion
